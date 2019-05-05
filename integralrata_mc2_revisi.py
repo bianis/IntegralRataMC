@@ -9,8 +9,8 @@ Created on Tue Apr 30 16:46:08 2019
 #   Materi     : Menghitung Integral Lipat Satu (nilai rata-rata)
 #   Kelompok   : Nomor 5    
 #   Kelas      : IF 40 03
-#   Anggota    : Febiana Anistya / 1301170115
-#                Maya Ameliasari / 1301174071
+#   Anggota    : Febiana Anistya
+#                Maya Ameliasari
 
 import math
 import numpy as np
